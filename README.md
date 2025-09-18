@@ -1,2 +1,1 @@
-
- 
+Basically the mini projects are base on the basic concepts ,which is not scalable , its just on basic level to get hans on experience with basic concepts of java like array, strings,loops,which use to acknowlege me the workflow an problem statments.
